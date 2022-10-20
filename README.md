@@ -1,2 +1,1 @@
-# web-resources
-Resources about web development
+- https://ohshitgit.com/?s=09
